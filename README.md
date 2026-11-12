@@ -1,2 +1,1 @@
-# smart-tutor
- Open-Source RAG Subject Tutor with Adaptive Learning Styles 
+🎓 Smart Subject Tutor (v1.0 — Open-Source RAG)
